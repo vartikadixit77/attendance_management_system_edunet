@@ -52,7 +52,7 @@ Open a terminal or command prompt.
 Navigate to the directory where you want to save the project:
 cd /path/to/your/folder
 Clone the repository:
- git clone https://github.com/Vartikadixit77/Attendance_Management_System_Using_Face_Recognition.git
+ git clone https://github.com/vartikadixit77/attendance_management_system_edunet.git
 
 Install Dependencies
 Navigate into the project directory: cd your-repo-name
@@ -60,18 +60,24 @@ Navigate into the project directory: cd your-repo-name
 Install required dependencies using pip:
 
 pip install -r requirements.txt
+
 pip install pymysql
+
 Make sure create a SefileImages and TrainingImage 📂 Folder for saving the images. - SefileImage 📂 - TrainingImage 📂
 
 Usage
 Run the main script:
 python main.py
 Follow the instructions displayed in the terminal or interface.
+
 Modifications and Contributions 🛠️
+
 If you would like to make any modifications or improvements to the project, feel free to fork the repository or clone it to your local machine. You can submit a pull request with your changes.
 
 If you want to suggest changes or improvements, feel free to open an issue.
+
 Thank you for your interest in contributing! 🚀
+
 I would like to thank my mentor, Aditya Ardak, for all the help and guidance during this project. Your session was very helpful and full of useful information. A big thank you to the team for giving me the opportunity to work on this project and learn so much.
 
 Feel free to connect or contribute to improve this project! 🚀
